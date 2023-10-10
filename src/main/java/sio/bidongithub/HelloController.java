@@ -7,6 +7,7 @@ public class HelloController {
     @FXML
     private Label welcomeText;
     int dd=12;
+    int toto=8;
 
     @FXML
     protected void onHelloButtonClick() {
